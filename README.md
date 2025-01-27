@@ -10,7 +10,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
  <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-akshayvpathak-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/akshayvpathak/)
 
 [![Yahoo](https://img.shields.io/badge/Yahoo!-akshayvpathak@yahoo.com-blue?logo=Yahoo&logoColor=blue&labelColor=black)](mailto:akshayvpathak@yahoo.com)
 
